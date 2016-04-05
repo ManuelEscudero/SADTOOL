@@ -1,0 +1,5 @@
+<CHALLENGE name="intranet">
+    <PARAM name="hostname" type="http" port="80" dns="yes">www.google.es</PARAM>
+    <PARAM name="gateway" type="icmp" dns="no">173.194.45.95</PARAM>
+    <PARAM name="mail" type="imap" port="993" dns="yes">imap.gmail.com</PARAM>
+  </CHALLENGE>

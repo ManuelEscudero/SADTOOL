@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+  <CHALLENGECONFIG name="intranet">
+    <PARAM name="hostname" type="http" port="80" dns="no"></PARAM>
+    <PARAM name="gateway" type="icmp" dns="no">213.37.1.75</PARAM>
+    <PARAM name="mail" type="http" port="80" dns="no"></PARAM>
+  </CHALLENGECONFIG>
+

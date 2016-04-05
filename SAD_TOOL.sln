@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAD_TOOL", "SAD_TOOL\SAD_TOOL.csproj", "{060BA8CD-9386-464D-AC07-60B54435A3C9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.3.52:8080/tfs/sad
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SAD_TOOL\\SAD_TOOL.csproj
+		SccProjectName1 = SAD_TOOL
+		SccLocalPath1 = SAD_TOOL
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Debug|x64.ActiveCfg = Debug|x64
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Debug|x64.Build.0 = Debug|x64
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Release|x64.ActiveCfg = Release|x64
+		{060BA8CD-9386-464D-AC07-60B54435A3C9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
